@@ -32,8 +32,7 @@ This project leverages a comprehensive set of technical indicators to enhance st
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Bhavesh216/IITR-CLOUDXLAB-stock-price-prediction.git
-   cd nifty50_stock_prediction
+   git clone https://github.com/Bhavesh216/IITR-CLOUDXLAB-STOCK-PRICE-PREDICTION.git
 Set up a virtual environment:
 Windows: python -m venv venv && venv\Scripts\activate
 macOS/Linux: python3 -m venv venv && source venv/bin/activate
