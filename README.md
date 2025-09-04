@@ -76,4 +76,4 @@ Errors: Share the log for help.
 
 
 # Contact
-For support, open an issue or email bhaveshkhullar1093@gmail.com
+For support, open an issue or email bhaveshkhullar1093@gmail.com or chaitanyagarg7112003@gmail.com
